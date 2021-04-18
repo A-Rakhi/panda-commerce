@@ -1,0 +1,13 @@
+.product{
+    border-bottom: 1px solid silver;
+    padding: 15px 5px;
+}
+.pro-img{
+    width: 40%;
+    height: 180px;
+
+}
+.product-details{
+    text-align: left;
+
+}

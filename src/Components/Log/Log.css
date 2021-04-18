@@ -1,0 +1,50 @@
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.back {
+    background-color: papayawhip;
+    height: 100vh;
+    width: 100%;
+}
+
+.contact {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.contact-sec {
+    border-bottom-right-radius: 30px;
+    border-top-right-radius: 30px;
+
+}
+
+.form-fun {
+    height: 500px;
+    width: 450px !important;
+    float: left;
+    padding-top: 5px;
+}
+
+h5 {
+    font-family: 'Ubuntu', sans-serif;
+}
+
+p {
+    color: darkblue;
+    font-size: 15px;
+}
+
+button1 {
+    width: 325px;
+    background-color: black !important;
+    font-family: 'Ubuntu', sans-serif;
+    border: none;
+    outline: none;
+}
